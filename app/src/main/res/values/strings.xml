@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CAB</string>
+    <string name="title_activity_drivers_map">Map</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_drivers_maps">Map</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyCvWrItLiM9soDEJP3PcsuPRBoC5qnA1pE</string>
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="title_activity_maps7">Map</string>
+</resources>
